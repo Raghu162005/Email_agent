@@ -1,4 +1,4 @@
-﻿# Email_agent
+﻿
  # Email Agent
 
 A Python script that sends personalized emails to multiple recipients using data from a CSV file. Built for Exposys Data Labs to automate welcome emails during the coding round process.
